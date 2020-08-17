@@ -1,0 +1,3 @@
+# JOURNALAPP
+
+ diary /journal app that helps you capture and collect memories to search, explore, relive and share your life story. ... 
